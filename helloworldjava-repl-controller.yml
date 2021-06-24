@@ -16,4 +16,4 @@ spec:
         image: prasanna23tunga/simple-java
         ports:
         - name: java-port
-          containerPort: 3001
+          containerPort: 3000
